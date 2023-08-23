@@ -1,0 +1,33 @@
+#heading{
+    margin: auto;
+    padding-left: 100px;
+    font-size: 35px;
+    color: darkblue;
+    text-decoration: underline;
+}
+#xyz{
+    color: rgb(242, 0, 255);
+    font-size: 25px;
+}
+#abc{
+    color: red;
+    font-size: 25px;
+}
+#pqr{
+    color: blueviolet;
+    font-size: 25px;
+}
+#mno{
+    color: darkgoldenrod;
+    font-size: 25px;
+}
+.xyz,li{
+    color: teal;
+    font-size: 20px;
+
+}
+.xyz,ul,li{
+    margin-top: 3px;
+    font-weight: bold;
+}
+
